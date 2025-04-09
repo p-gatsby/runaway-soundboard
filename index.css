@@ -7,11 +7,11 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: calc(100vh - 62.8px);
+  height: 100vh;
 }
 
-.title {
-  width: 40%;
+.runaway-logo {
+  width: 50%;
 }
 
 .box {
