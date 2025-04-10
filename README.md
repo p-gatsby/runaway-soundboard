@@ -20,7 +20,7 @@ This project is a web application that features a dynamic soundboard inspired by
    Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/p-gatsby/runaway-soundboard.git
+   git clone https://github.com/pgatsby/runaway-soundboard.git
    ```
 
 ## License
